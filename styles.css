@@ -1,0 +1,47 @@
+html{
+	width:   70%;
+}
+
+p{
+	text-align: center;
+
+}
+h1{
+	margin-top: 1.5em;
+}h2{
+	margin-top: 1.5em;
+}h2{
+	margin-top: 1.5em;
+}
+.trash {
+	position: relative;
+	float: right;
+	
+	font-style: italic;
+	text-align: right;
+	width: 30%;
+	height: 30%;
+}
+
+table{
+	border: 1px solid black;
+}
+
+table tr  th{
+	
+	border: 1px solid black;
+}table tr  td{
+	
+	border: 1px solid black;
+}
+
+.lasttd{
+	border: none;
+	font-style: italic;
+}
+
+
+
+
+
+
